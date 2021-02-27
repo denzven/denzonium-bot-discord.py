@@ -123,7 +123,7 @@ async def _8ball(ctx, *,question):
 
 ###################################
 #spam command (limit of messages is 69{nice} and can spam mentions too!)
-'''
+
 @bot.command()
 async def spam(ctx, content: str, times: int):
     """you know what spam means lol."""
@@ -133,7 +133,6 @@ async def spam(ctx, content: str, times: int):
         for i in range(times):
             await ctx.send(content)
 '''
-
 @bot.command()
 async def spam(ctx, content: str, times: int):
     """you know what spam means lol."""
@@ -145,6 +144,7 @@ async def spam(ctx, content: str, times: int):
             await ctx.send(content)
             asyncnio.sleep(0.1)
             a = a+1
+'''
 
 
 
