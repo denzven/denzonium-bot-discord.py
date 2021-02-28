@@ -12,7 +12,7 @@ Repl ---> [![Run on Repl.it](https://repl.it/badge/github/denzven/denzoniumbot_p
 [![join our server](https://api.dsc.gg/v2/widget/denzonium_bot)](https://api.dsc.gg/v2/widget/denzonium_bot)
 
 
-Repl ---> [![Run on Repl.it](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/600px-Repl.it_logo.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/600px-Repl.it_logo.svg.pnghttps://repl.it/github/denzven/denzoniumbot_pythonmodule)
+Repl ---> [![Run on Repl.it](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/100px-Repl.it_logo.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/600px-Repl.it_logo.svg.pnghttps://repl.it/github/denzven/denzoniumbot_pythonmodule)
 ---
 
 
