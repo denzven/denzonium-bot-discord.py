@@ -7,6 +7,7 @@
 
 Repl ---> [![Run on Repl.it](https://repl.it/badge/github/denzven/denzoniumbot_pythonmodule)](https://repl.it/github/denzven/denzoniumbot_pythonmodule)
 
+bot --> epl ---> [![Run on Repl.it](https://api.dsc.gg/v2/widget/chilly_place)](https://api.dsc.gg/v2/widget/chilly_place)
 ---
 
 
